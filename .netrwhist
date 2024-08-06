@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =6
+let g:netrw_dirhist_6='/home/enunsquared/vimprove'
+let g:netrw_dirhist_5='/home/enunsquared/datastructuresandalgorithms/kata-machine/src/day1'
+let g:netrw_dirhist_4='/home/enunsquared/datastructuresandalgorithms/kata-machine/src'
+let g:netrw_dirhist_3='/home/enunsquared/datastructuresandalgorithms/kata-machine'
+let g:netrw_dirhist_2='/home/enunsquared/datastructuresandalgorithms/kata-machine/scripts'
+let g:netrw_dirhist_1='/home/enunsquared/datastructuresandalgorithms/kata-machine'
