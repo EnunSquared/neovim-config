@@ -5,12 +5,12 @@ return {
         local config = require("nvim-treesitter.configs")
         config.setup({
             ensure_installed = {
-                "lua", 
-                "vim", 
-                "cpp", 
-                "javascript", 
-                "html", 
-                "css", 
+                "lua",
+                "vim",
+                "cpp",
+                "javascript",
+                "html",
+                "css",
                 "c",
                 "vimdoc",
                 "luadoc",
